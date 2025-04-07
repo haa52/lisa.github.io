@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Laboratory for Intelligent Systems and Analytics
+        
       image:
         filename: welcome.jpg
       text: |
